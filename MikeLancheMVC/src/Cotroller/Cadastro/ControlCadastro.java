@@ -29,6 +29,7 @@ public class ControlCadastro{
                 }
             } else if (myview.escolha == 3) {
                 login = false;
+                break;
             }
         }
     }
